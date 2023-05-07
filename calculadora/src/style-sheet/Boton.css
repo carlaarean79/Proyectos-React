@@ -1,0 +1,19 @@
+.boton-contenedor {
+    height: 83px;
+    display: flex;
+    flex: 1 1; /*espacio equitativo entre boton y boton. mismo ancho y mismo alto*/
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;/*negrita*/
+    font-size: 38px;
+    background-color: #0b0b21;
+    color: white;
+    border-radius: 25px;
+    border: 2px solid white;
+    margin: 4px;
+    cursor: pointer;/*puntero con forma de mano*/
+    }
+
+    .operador {
+        background-color: #00471b;
+    }
